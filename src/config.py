@@ -1,4 +1,4 @@
-content_folder = ['art', 'blog', 'naming-demo']
+content_folder = ['art', 'blog', 'naming-demo', 'games']
 relative_build_url = "/"
 absolute_build_url = "https://alexandrecid.github.io/Chisai/"
 build_folder = "build/"
